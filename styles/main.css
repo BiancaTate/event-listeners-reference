@@ -5,3 +5,11 @@ body{
     color: red;
 
 }
+#👻{
+    font-size: 5rem;
+    text-align: center;
+}
+
+.flipped{
+    transform: rotate(0.5turn);
+}
